@@ -1,8 +1,11 @@
 # utl-quality-graphics-in-R-wps-and-sas
-quality graphics in R wps and sas 
     %let pgm=utl-quality-graphics-in-R-wps-and-sas;
 
      quality graphics in R wps and sas
+
+    github
+    https://tinyurl.com/3fek8pef
+    https://github.com/rogerjdeangelis/utl-quality-graphics-in-R-wps-and-sas
 
        Solutions
 
@@ -18,9 +21,21 @@ quality graphics in R wps and sas
        Perhaps we should add R graphics to our tool chest?
       SOAPBOX OFF
 
-    github
-    https://tinyurl.com/3fek8pef
-    https://github.com/rogerjdeangelis/utl-quality-graphics-in-R-wps-and-sas
+    1. r_city_temperature.png
+    https://tinyurl.com/yn3ssjzh
+    https://github.com/rogerjdeangelis/utl-quality-graphics-in-R-wps-and-sas/blob/main/r_city_temperature.png
+
+    wps_sqplot_city_temperature.png
+    https://tinyurl.com/yckjf63u
+    https://github.com/rogerjdeangelis/utl-quality-graphics-in-R-wps-and-sas/blob/main/wps_sqplot_city_temperature.png
+
+    3. wps_gplot_city_temperature.png
+    https://tinyurl.com/mrya9smp
+    https://github.com/rogerjdeangelis/utl-quality-graphics-in-R-wps-and-sas/blob/main/wps_gplot_city_temperature.png
+
+    4. sas_sgplot_city_temperature.png
+    https://tinyurl.com/yn28t62d
+    https://github.com/rogerjdeangelis/utl-quality-graphics-in-R-wps-and-sas/blob/main/sas_sgplot_city_temperature.png
 
     /*                   _
     (_)_ __  _ __  _   _| |_
